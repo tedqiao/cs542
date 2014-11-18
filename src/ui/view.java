@@ -32,7 +32,7 @@ public class view extends JFrame {
     }
 
     private void init() {
-     
+    
     	UserInformation user = new UserInformation("zhang san","male","123123123",123213123.0);
         stockInfo2 s1 = new stockInfo2(); 
         JScrollPane scroll = new JScrollPane(s1);	
